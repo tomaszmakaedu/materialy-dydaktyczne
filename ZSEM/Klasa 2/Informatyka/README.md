@@ -1,11 +1,11 @@
-# Pracownia projektowania obiektowego
+# Informatyka
 
-**PTI · Klasa 4E**
+**ZSEM · Klasa 2**
 
 [Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
 
 ## Karty pracy
 
-- [Klasa Notatka w aplikacji konsolowej — pobierz DOCX](01_pracownia_projektowania_obiektowego_github.docx?raw=true)
+- [Zakładanie poczty Gmail — pobierz DOCX](Karta_pracy_Gmail_klasa_2_ZSEM.docx?raw=true)
 
 Pobierz kartę i otwórz ją w edytorze dokumentów. Wymagania, punktacja, termin i sposób oddania pracy znajdują się w treści karty.

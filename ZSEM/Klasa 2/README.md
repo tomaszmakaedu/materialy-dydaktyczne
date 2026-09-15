@@ -6,3 +6,5 @@
 
 - [Eksploatacja urządzeń techniki komputerowej](EUTK/README.md)
 - [Lokalne sieci komputerowe](LSK/README.md)
+
+- [Informatyka](Informatyka/README.md)

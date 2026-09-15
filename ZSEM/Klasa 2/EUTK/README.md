@@ -4,8 +4,9 @@
 
 [Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
 
-## Materiały
+## Karty pracy
 
-W tym folderze będą publikowane projekty do realizacji, karty pracy i materiały pomocnicze.
+- [HWMonitor i HWiNFO — pobierz DOCX](Karta_pracy_HWMonitor_HWiNFO_klasa_2.docx?raw=true)
+- [Instalowanie i konfigurowanie urządzeń peryferyjnych — pobierz DOCX](Karta_pracy_Urzadzenia_peryferyjne_klasa_2.docx?raw=true)
 
-Materiały zostaną dodane wkrótce. Szczegółowe wymagania, punktacja, termin i sposób oddania pracy będą podane w instrukcji danego zadania.
+Pobierz kartę i otwórz ją w edytorze dokumentów. Wymagania, punktacja, termin i sposób oddania pracy znajdują się w treści karty.

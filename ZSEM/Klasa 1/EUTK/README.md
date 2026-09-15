@@ -4,8 +4,9 @@
 
 [Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
 
-## Materiały
+## Karty pracy
 
-W tym folderze będą publikowane projekty do realizacji, karty pracy i materiały pomocnicze.
+- [CPU-Z — identyfikacja podzespołów — pobierz DOCX](Karta_pracy_CPU-Z_klasa_1_technikum.docx?raw=true)
+- [Narzędzia do montażu i naprawy sprzętu komputerowego — pobierz DOCX](Karta_pracy_Narzedzia_komputerowe_klasa_1.docx?raw=true)
 
-Materiały zostaną dodane wkrótce. Szczegółowe wymagania, punktacja, termin i sposób oddania pracy będą podane w instrukcji danego zadania.
+Pobierz kartę i otwórz ją w edytorze dokumentów. Wymagania, punktacja, termin i sposób oddania pracy znajdują się w treści karty.
