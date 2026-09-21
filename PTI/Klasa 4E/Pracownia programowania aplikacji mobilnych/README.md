@@ -1,3 +1,21 @@
+# Pracownia programowania aplikacji mobilnych
+
+**PTI · Klasa 4E**
+
+[Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
+
+## Zadanie bazowe
+
+[Mobilna lista notatek — otwórz kartę w GitHub](02_zadanie_podstawowe.md)
+
+## Zadanie następcze
+
+[Publikacja aplikacji mobilnej w GitHub — karta znajduje się poniżej](#publikacja-aplikacji-mobilnej-w-github)
+
+Zadanie następcze polega na opublikowaniu rozwiązania zadania bazowego w publicznym repozytorium GitHub.
+
+---
+
 # Publikacja aplikacji mobilnej w GitHub
 
 **Następstwo karty pracy 02** · Pracownia programowania aplikacji mobilnych  
@@ -9,41 +27,25 @@ Dodaj kompletną aplikację NotatkiMobilne do publicznego repozytorium utworzone
 
 ## Wymagania
 
-Repozytorium: **XX_YY_4E_PTI**. XX to dwie pierwsze litery nazwiska, YY to dwie pierwsze litery imienia. Bez polskich znaków i bez pełnego imienia i nazwiska w nazwie repozytorium lub publicznym README.
+Repozytorium: **XX_YY_4E_PTI**. XX to dwie pierwsze litery nazwiska, YY to dwie pierwsze litery imienia. Polskie znaki zastąp odpowiednikami bez znaków diakrytycznych.
 
-Struktura:
-
-- 01_obiektowe/
-- 02_mobilne/
+Struktura: 01_obiektowe/ oraz 02_mobilne/.
 
 Folder 02_mobilne musi zawierać kompletny projekt .NET MAUI w C# z interfejsem XAML, pliki .sln i .csproj, pliki .cs i .xaml, foldery Resources i Platforms, App.xaml, AppShell.xaml, MauiProgram.cs oraz mobilna1.png i mobilna2.png.
-
-mobilna1.png – cały ekran z emulatorem, środowiskiem i trzema początkowymi notatkami.  
-mobilna2.png – cały ekran z emulatorem, środowiskiem i nową notatką na końcu listy.
-
-## Pliki zakazane
-
-Usuń: .vs/, bin/, obj/, Debug/, Release/, *.pdb, *.user, *.suo. Nie usuwaj plików potrzebnych do otwarcia, kompilacji i uruchomienia projektu.
 
 ## Procedura
 
 1. Otwórz repozytorium zawierające 01_obiektowe.
-2. Utwórz folder 02_mobilne.
-3. Skopiuj kompletny projekt NotatkiMobilne.
-4. Usuń pliki tymczasowe i wynikowe.
-5. Uruchom aplikację w emulatorze Androida.
-6. Wykonaj mobilna1.png.
-7. Dodaj notatkę, np. Urodziny Ali, i wykonaj mobilna2.png.
-8. Wykonaj commit: 02_mobilne – projekt C# .NET MAUI NotatkiMobilne.
-9. Opublikuj zmiany i sprawdź repozytorium w trybie incognito.
+2. Utwórz folder 02_mobilne i skopiuj kompletny projekt NotatkiMobilne.
+3. Usuń .vs/, bin/, obj/, Debug/, Release/, *.pdb, *.user i *.suo.
+4. Uruchom aplikację w emulatorze i wykonaj mobilna1.png.
+5. Dodaj Urodziny Ali oraz mobilna2.png.
+6. Wykonaj commit: 02_mobilne – projekt C# .NET MAUI NotatkiMobilne.
+7. Opublikuj zmiany i sprawdź repozytorium w trybie incognito.
 
 ## Oddanie
 
-Wyślij wiadomość na tomasz.maka.edu@gmail.com.
-
-Temat: **Nazwisko Imie 4E PTI GitHub 02 DD.MM.RR**
-
-W treści podaj link do repozytorium i folder 02_mobilne.
+Wyślij wiadomość na tomasz.maka.edu@gmail.com. Temat: **Nazwisko Imie 4E PTI GitHub 02 DD.MM.RR**. Podaj link do repozytorium i folder 02_mobilne.
 
 ## Punktacja
 
@@ -57,14 +59,3 @@ W treści podaj link do repozytorium i folder 02_mobilne.
 | Dwa zrzuty ekranu | 15 |
 | Publikacja zmian | 5 |
 | Link i temat wiadomości | 10 |
-
-Skala: 0–49% niedostateczny, 50–59% dopuszczający, 60–69% dostateczny, 70–79% dobry, 80–89% bardzo dobry, 90–100% celujący.
-
-## Kontrola
-
-- [ ] Repozytorium zawiera 01_obiektowe i 02_mobilne.
-- [ ] Projekt wykonano w C#/.NET MAUI/XAML.
-- [ ] Zachowano .sln, .csproj, Resources i Platforms.
-- [ ] Dodano mobilna1.png i mobilna2.png.
-- [ ] Usunięto pliki tymczasowe i wynikowe.
-- [ ] Wysłano poprawny link i temat wiadomości.
