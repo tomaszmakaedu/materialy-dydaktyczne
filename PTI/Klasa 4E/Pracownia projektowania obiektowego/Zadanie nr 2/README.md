@@ -1,19 +1,19 @@
-# Pracownia projektowania obiektowego
+# Zadanie nr 2nia obiektowego
 
 **PTI · Klasa 4E**
 
-[Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
+[Lista przedmiotów](../../README.md) · [Strona główna](../../../README.md)
 
 ## Karty pracy
 
-- [Zadanie bazowe: Klasa Notatka w aplikacji konsolowej](01_zadanie_podstawowe.md)
-- [Zadanie następcze: publikacja projektu w GitHub](#publikacja-projektu-obiektowego-w-github)
+- [Zadanie nr 1: Klasa Notatka w aplikacji konsolowej](../Zadanie%20nr%201/README.md)
+- [Zadanie nr 2: publikacja projektu w GitHub](#publikacja-projektu-obiektowego-w-github)
 
 ---
 
 # Publikacja projektu obiektowego w GitHub
 
-**Następstwo karty pracy 01** · **INF.04 · Praca własna ucznia · Klasa 4E · PTI**
+**Zadanie nr 2** · **INF.04 · Praca własna ucznia · Klasa 4E · PTI**
 
 ## Cel
 
