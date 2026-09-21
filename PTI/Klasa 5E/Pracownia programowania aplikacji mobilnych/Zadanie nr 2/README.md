@@ -59,3 +59,8 @@ Wyślij wiadomość na tomasz.maka.edu@gmail.com. Temat: **Nazwisko Imie 5E PTI 
 | Dwa zrzuty ekranu | 15 |
 | Publikacja zmian | 5 |
 | Link i temat wiadomości | 10 |
+
+
+---
+
+[ Pobierz wersję DOCX tej karty pracy ](../Zadanie%20nr%201/02_pracownia_programowania_aplikacji_mobilnych_github.docx)

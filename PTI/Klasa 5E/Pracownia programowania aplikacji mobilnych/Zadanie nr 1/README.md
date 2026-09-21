@@ -41,3 +41,8 @@ Archiwum musi zawierać folder 02_mobilne, pełny projekt NotatkiMobilne, zmodyf
 | Wygląd i dowody | 15 |
 
 Skala: 0–49% niedostateczny, 50–59% dopuszczający, 60–69% dostateczny, 70–79% dobry, 80–89% bardzo dobry, 90–100% celujący.
+
+
+---
+
+[ Pobierz wersję DOCX tej karty pracy ](02_pracownia_programowania_aplikacji_mobilnych_github.docx)

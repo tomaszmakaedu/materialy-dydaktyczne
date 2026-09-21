@@ -46,3 +46,8 @@ Nazwa pliku: **Nazwisko_Imie_Klasa_PTI_11.09.2026.zip**
 | Kompletność oddania | 15 |
 
 Skala: 0–49% niedostateczny, 50–59% dopuszczający, 60–69% dostateczny, 70–79% dobry, 80–89% bardzo dobry, 90–100% celujący.
+
+
+---
+
+[ Pobierz wersję DOCX tej karty pracy ](03_pracownia_testowania_i_dokumentowania_github.docx)

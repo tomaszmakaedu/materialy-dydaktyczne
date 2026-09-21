@@ -48,3 +48,8 @@ Wyślij wiadomość na tomasz.maka.edu@gmail.com. Temat: **Nazwisko Imie 5E PTI 
 | Zrzuty ekranu | 15 |
 | Zachowanie wcześniejszych projektów | 5 |
 | Link i temat wiadomości | 10 |
+
+
+---
+
+[ Pobierz wersję DOCX tej karty pracy ](../Zadanie%20nr%201/03_pracownia_testowania_i_dokumentowania_github.docx)
