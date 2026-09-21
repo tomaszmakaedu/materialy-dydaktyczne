@@ -1,57 +1,102 @@
-# Zadanie nr 2
-
-**PTI · Klasa 4E**
-
-[Lista przedmiotów](../../README.md) · [Strona główna](../../../README.md)
-
-## Karty pracy
-
-- [Zadanie nr 1: Klasa Notatka w aplikacji konsolowej](../Zadanie%20nr%201/README.md)
-- [Zadanie nr 2: publikacja projektu w GitHub](#publikacja-projektu-obiektowego-w-github)
-
----
-
 # Publikacja projektu obiektowego w GitHub
 
-**Zadanie nr 2** · **INF.04 · Praca własna ucznia · Klasa 4E · PTI**
+*Następstwo karty pracy 01 | Pracownia projektowania obiektowego*
 
-## Cel
+**INF.04 | Praca własna ucznia | Klasa 4E | PTI**
 
-Opublikuj kompletny projekt NotatkiKonsola w tym samym publicznym repozytorium GitHub, które będzie później wykorzystywane do aplikacji mobilnej i dokumentacji testów. Nie twórz trzech repozytoriów.
+## Cel zadania
 
-## Wymagania
+Opublikuj kompletny projekt NotatkiKonsola w publicznym repozytorium GitHub. Repozytorium będzie później wykorzystywane do dodania aplikacji mobilnej oraz dokumentacji testów. Nie twórz trzech repozytoriów.
+## Wymagana nazwa repozytorium
 
-Nazwa repozytorium: **XX_YY_4E_PTI**. XX to dwie pierwsze litery nazwiska, a YY to dwie pierwsze litery imienia. Polskie znaki zastąp odpowiednikami bez znaków diakrytycznych. Nie umieszczaj pełnego imienia i nazwiska w nazwie repozytorium ani publicznym README.
+Użyj schematu:
 
-Struktura:
+`XX_YY_4E_PTI`
+- XX – dwie pierwsze litery nazwiska;
+- YY – dwie pierwsze litery imienia;
+- polskie znaki zastąp odpowiednikami bez znaków diakrytycznych;
+- nie umieszczaj pełnego imienia i nazwiska w nazwie repozytorium ani publicznym README.
+## Wymagana struktura repozytorium
 
-- 01_obiektowe/
+`XX_YY_4E_PTI/01_obiektowe/`
+## Zawartość folderu 01_obiektowe
 
-Folder musi zawierać kompletny projekt Visual Studio NotatkiKonsola, pliki .sln, .csproj i .cs oraz konsola1.png. Zrzut ma pokazywać cały ekran, pasek zadań, uruchomiony program, co najmniej dwie notatki, identyfikatory, działanie obu metod oraz kod albo terminal.
+kompletny projekt Visual Studio NotatkiKonsola;
 
-Usuń przed publikacją: .vs/, bin/, obj/, Debug/, Release/, *.pdb, *.user, *.suo.
+- plik rozwiązania .sln;
+- plik projektu .csproj;
+wszystkie pliki źródłowe .cs;
 
-## Procedura
+zrzut ekranu konsola1.png.
+## Wymagany zrzut ekranu
 
-1. Utwórz publiczne repozytorium XX_YY_4E_PTI.
-2. Utwórz folder 01_obiektowe i skopiuj kompletny projekt.
-3. Usuń pliki tymczasowe i wynikowe.
-4. Uruchom program i wykonaj konsola1.png.
-5. Wykonaj commit: 01_obiektowe – projekt C# NotatkiKonsola.
-6. Opublikuj zmiany i sprawdź repozytorium w trybie incognito.
+konsola1.png ma pokazywać cały ekran, pasek zadań, uruchomiony program, dane co najmniej dwóch notatek, identyfikatory, działanie obu metod oraz kod albo terminal.
+## Pliki, których nie należy publikować
 
-## Oddanie
+Przed zatwierdzeniem zmian obowiązkowo usuń pliki tymczasowe i wynikowe:
 
-Wyślij wiadomość na tomasz.maka.edu@gmail.com.
+`.vs/   bin/   obj/   Debug/   Release/   *.pdb   *.user   *.suo`
+Nie usuwaj plików potrzebnych do otwarcia, kompilacji i uruchomienia projektu.
 
-Temat: **Nazwisko Imie 4E PTI GitHub 01 DD.MM.RR**
+## Procedura wykonania
 
-W treści podaj bezpośredni link do repozytorium oraz folder 01_obiektowe.
+Zaloguj się na swoje konto GitHub.
+Utwórz nowe publiczne repozytorium o nazwie XX_YY_4E_PTI.
+Utwórz lokalny folder 01_obiektowe.
+Skopiuj do niego kompletny projekt NotatkiKonsola.
+Usuń pliki tymczasowe i wynikowe.
+Uruchom program i wykonaj konsola1.png.
+Dodaj zmiany do repozytorium.
+Wykonaj commit: 01_obiektowe – projekt C# NotatkiKonsola.
+Opublikuj zmiany na GitHubie.
+Otwórz repozytorium w trybie incognito i sprawdź dostęp bez logowania.
+Skopiuj link do repozytorium.
+## Oddanie pracy
 
-## Punktacja
+Wyślij wiadomość na adres: tomasz.maka.edu@gmail.com
+
+Temat wiadomości musi mieć dokładnie postać:
+
+Nazwisko Imie 4E PTI GitHub 01 DD.MM.RR
+
+W miejsce DD.MM.RR wpisz rzeczywistą datę wysłania wiadomości.
+
+W treści wiadomości podaj bezpośredni link do publicznego repozytorium oraz nazwę folderu projektu: 01_obiektowe.
+
+### Przykładowa treść wiadomości
+
+```text
+Dzień dobry,
+
+Przesyłam link do publicznego repozytorium GitHub zawierającego projekt 01_obiektowe:
+LINK DO REPOZYTORIUM
+
+Projekt znajduje się w folderze: 01_obiektowe
+
+Pozdrawiam
+Imię i nazwisko
+Punktacja
+Maksymalnie można zdobyć 100 punktów. Wynik punktowy jest jednocześnie wynikiem procentowym.
+Skala ocen
+0–49% – niedostateczny
+50–59% – dopuszczający
+60–69% – dostateczny
+70–79% – dobry
+80–89% – bardzo dobry
+90–100% – celujący
+Kontrola przed wysłaniem
+☐ Repozytorium ma nazwę XX_YY_4E_PTI.
+☐ Repozytorium jest publiczne i działa w trybie incognito.
+☐ Istnieje folder 01_obiektowe.
+☐ Projekt zawiera .sln, .csproj i pliki .cs.
+☐ Dodano konsola1.png.
+☐ Usunięto pliki tymczasowe i wynikowe.
+☐ Wysłano poprawny link i temat wiadomości.
+Koniec karty pracy
+```
 
 | Obszar | Punkty |
-|---|---:|
+| --- | --- |
 | Nazwa repozytorium | 10 |
 | Publiczny dostęp | 15 |
 | Struktura folderu | 10 |
@@ -61,4 +106,6 @@ W treści podaj bezpośredni link do repozytorium oraz folder 01_obiektowe.
 | Publikacja zmian | 5 |
 | Link i temat wiadomości | 10 |
 
-Skala ocen: 0–49% niedostateczny, 50–59% dopuszczający, 60–69% dostateczny, 70–79% dobry, 80–89% bardzo dobry, 90–100% celujący.
+---
+
+[Pobierz wersję DOCX tej karty pracy](01_obiektowe_github.docx)
