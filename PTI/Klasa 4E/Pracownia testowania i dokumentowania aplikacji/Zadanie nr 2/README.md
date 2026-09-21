@@ -1,22 +1,20 @@
-# Pracownia testowania i dokumentowania aplikacji
+# Zadanie nr 2nia i dokumentowania aplikacji
 
 **PTI · Klasa 4E**
 
-[Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
+[Lista przedmiotów](../../README.md) · [Strona główna](../../../README.md)
 
-## Zadanie bazowe
+## Zadanie nr 1
 
-[Testowanie i dokumentowanie aplikacji — otwórz kartę w GitHub](03_zadanie_podstawowe.md)
+[Testowanie i dokumentowanie aplikacji — otwórz kartę w GitHub](../Zadanie%20nr%201/README.md)
 
-## Zadanie następcze
-
-Poniżej znajduje się karta publikacji testów i dokumentacji w GitHub.
+## Zadanie nr 2
 
 ---
 
 # Publikacja testów i dokumentacji w GitHub
 
-**Następstwo karty pracy 03** · Pracownia testowania i dokumentowania aplikacji  
+**Zadanie nr 2** · Pracownia testowania i dokumentowania aplikacji  
 **INF.04 · Praca własna ucznia · Klasa 4E · PTI**
 
 ## Cel i struktura
