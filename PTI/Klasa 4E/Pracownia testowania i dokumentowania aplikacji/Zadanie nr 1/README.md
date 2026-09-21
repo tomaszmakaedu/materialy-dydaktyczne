@@ -1,48 +1,5 @@
-# Testowanie i dokumentowanie aplikacji
+# Testowanie i dokumentowanie aplikacji\n\nPracownia testowania i dokumentowania aplikacji\n\nCelem pracy jest przeprowadzenie krótkiego testu aplikacji konsolowej i mobilnej oraz przygotowanie dokumentacji w formie wymaganej podczas egzaminu INF.04. Nie poprawiasz kodu za kolegę i nie opisujesz działania, którego nie sprawdziłeś. Każdy wynik wpisujesz na podstawie własnego uruchomienia programu.\n\n## Pobranie i przygotowanie narzędzi\n\nDo wykonania tej karty potrzebujesz Visual Studio do uruchamiania projektów oraz programu do przygotowania dokumentu `egzamin.docx`. Zrzuty ekranu i archiwum ZIP wykonasz narzędziami wbudowanymi w Windows.\n\nSprawdź w menu Start, czy masz Visual Studio Community. Jeżeli tak, otwórz je i przejdź do kroku 4.\n\nJeżeli Visual Studio nie jest zainstalowane, pobierz je wyłącznie z oficjalnej strony Microsoftu: visualstudio.microsoft.com/vs/community/\n\nUruchom instalator i zaznacz obciążenia `.NET desktop development` oraz `.NET Multi-platform App UI development`, aby móc otworzyć oba projekty z wcześniejszych kart. Pozostaw domyślne składniki.\n\nDo przygotowania `egzamin.docx` użyj Microsoft Word, jeżeli jest dostępny. Jeżeli nie, pobierz LibreOffice z oficjalnej strony: www.libreoffice.org/download/\n\nW instalatorze LibreOffice wybierz wersję dla Windows, uruchom program Writer i zapisuj dokument przez Save As jako Word 2007-365 (`.docx`).\n\nDo zrzutów użyj wbudowanego Narzędzia Wycinanie albo klawisza `PrtSc`, a do ZIP użyj Eksploratora plików: prawy przycisk myszy, Send to, Compressed zipped folder.\n\nNie pobieraj programów z przypadkowych stron. Instalacja Visual Studio oraz Android SDK może trwać dłużej niż jedna lekcja, dlatego na zajęciach korzystaj z przygotowanego stanowiska.\n\n## Rezultat końcowy\n\nWykonasz testy funkcjonalne obu aplikacji z dzisiejszych zajęć.\n\nUdokumentujesz wynik testów: pozytywny, negatywny albo wymagający poprawy.\n\nSprawdzisz, czy kod zawiera komentarz dokumentacyjny klasy `Notatka`.\n\nPrzygotujesz plik `egzamin.docx` oraz zrzuty ekranu.\n\nSkompletujesz pliki w archiwum gotowym do wysłania nauczycielowi.\n\n## Plan pracy\n\n## Instrukcja wykonania\n\n1. Utwórz folder `03_testy_dokumentacja`.\n\n2. W tym folderze przygotuj dokument `egzamin.docx`. Na pierwszej stronie wpisz imię i nazwisko, klasę, datę, nazwę systemu operacyjnego, środowisko programistyczne oraz język programowania.\n\n3. W projekcie konsolowym odszukaj klasę `Notatka`. Sprawdź, czy nad klasą znajduje się komentarz zawierający nazwę klasy, opis, pola, metody i autora. Jeżeli komentarza nie ma, dodaj go samodzielnie.\n\n4. Uruchom aplikację konsolową i wykonaj test utworzenia dwóch notatek. Sprawdź identyfikatory, licznik oraz działanie obu metod.\n\n5. Uruchom aplikację mobilną. Sprawdź stan początkowy z trzema notatkami.\n\n6. Wpisz `Urodziny Ali`, wybierz `DODAJ` i sprawdź, czy tekst pojawił się jako ostatni element listy.\n\n7. Dodaj drugą, własną notatkę. Sprawdź, czy poprzednia notatka nie zniknęła.\n\n8. W dokumencie `egzamin.docx` zapisz dla każdego testu: numer, czynność, oczekiwany rezultat, rzeczywisty rezultat oraz status `PASS` albo `FAIL`.\n\n9. Dodaj do dokumentu podpisane zrzuty ekranu. Zrzuty powinny pokazywać cały ekran, pasek zadań oraz kod i wynik działania, a w przypadku aplikacji mobilnej także emulator.\n\n10. Zapisz dokument i sprawdź, czy można go ponownie otworzyć.\n\n## Przypadki testowe\n\n## Punktacja\n\nMaksymalnie można zdobyć 100 punktów. Liczba punktów jest jednocześnie wynikiem procentowym.\n\n## Skala ocen\n\n0-49% - niedostateczny\n\n50-59% - dopuszczający\n\n60-69% - dostateczny\n\n70-79% - dobry\n\n80-89% - bardzo dobry\n\n90-100% - celujący\n\n## Oddanie pracy\n\nPracę wykonujesz samodzielnie. Możesz korzystać z pomocy wbudowanej w środowisko programistyczne i oficjalnej dokumentacji, ale kod, testy i dokumentację tworzysz własnoręcznie.\n\nTermin oddania: 18.09.2026, czyli w ciągu 7 dni od zajęć.\n\nAdres e-mail: tomasz.maka.edu@gmail.com\n\nTemat wiadomości: Nazwisko Imie Klasa PTI DD.MM.RR. W miejsce DD.MM.RR wpisz datę wysłania wiadomości.\n\nWyślij jeden plik ZIP o nazwie: Nazwisko_Imie_Klasa_PTI_11.09.2026.zip.\n\nW archiwum umieść pełny projekt oraz pliki wymienione poniżej. Nie wysyłaj samego fragmentu kodu.\n\n## Zawartość archiwum\n\nfolder `03_testy_dokumentacja`\n\nplik `egzamin.docx`\n\nfolder `zrzuty` zawierający zrzuty `konsola1.png`, `konsola2.png`, `mobilna1.png`, `mobilna2.png` lub większą liczbę, jeżeli jest potrzebna\n\narchiwum `testy_dokumentacja.zip` zawierające dokument i zrzuty\n\nw archiwum głównym także foldery `01_obiektowe` i `02_mobilne` z projektami z pozostałych kart\n\n## Wymagane zrzuty ekranu\n\n`konsola1.png` i `konsola2.png`: wynik testów konsolowych oraz kod lub terminal\n\n`mobilna1.png` i `mobilna2.png`: stan początkowy i stan po dodaniu notatki\n\n\n\n| Imię i nazwisko: | ........................................ | Klasa: | .................... |\n\n| --- | --- | --- | --- |\n\n| Data wykonania: | 11.09.2026 | Przedmiot: | Pracownia testowania i dokumentowania aplikacji |\n\n\n\n| Etap | Co wykonujesz | Czas |\n\n| --- | --- | --- |\n\n| 1 | Sprawdź narzędzia, przeczytaj kryteria i przygotuj folder testów. | 5 min |\n\n| 2 | Wykonaj testy aplikacji konsolowej i zapisz rzeczywiste wyniki. | 15 min |\n\n| 3 | Wykonaj testy aplikacji mobilnej i zapisz rzeczywiste wyniki. | 15 min |\n\n| 4 | Przygotuj dokument `egzamin.docx` oraz komentarz do kodu, jeśli go brakuje. | 15 min |\n\n| 5 | Wykonaj zrzuty, spakuj pliki i przeprowadź kontrolę końcową. | 10 min |\n\n\n\n| Nr | Czynność | Oczekiwany rezultat | Rzeczywisty rezultat | Status |\n\n| --- | --- | --- | --- | --- |\n\n| 1 | Uruchom konsolę i utwórz pierwszą notatkę. | Dane notatki są wyświetlone, a identyfikator wynosi 1. | Wpisz po wykonaniu | PASS / FAIL |\n\n| 2 | Utwórz drugą notatkę i uruchom obie metody. | Drugi obiekt ma kolejny identyfikator, a obie metody działają. | Wpisz po wykonaniu | PASS / FAIL |\n\n| 3 | Sprawdź licznik utworzonych notatek. | Licznik odpowiada liczbie utworzonych obiektów. | Wpisz po wykonaniu | PASS / FAIL |\n\n| 4 | Uruchom aplikację mobilną. | Widoczne są trzy początkowe notatki. | Wpisz po wykonaniu | PASS / FAIL |\n\n| 5 | Dodaj `Urodziny Ali`. | Tekst pojawia się jako ostatni element listy. | Wpisz po wykonaniu | PASS / FAIL |\n\n| 6 | Dodaj drugą własną notatkę. | Lista zawiera wcześniejsze elementy i nowy wpis. | Wpisz po wykonaniu | PASS / FAIL |\n\n\n\n| Obszar | Warunek zaliczenia | Punkty |\n\n| --- | --- | --- |\n\n| Testy konsolowe | Wykonano testy 1-3 i zapisano rzeczywiste wyniki. | 20 |\n\n| Testy mobilne | Wykonano testy 4-6 i zapisano rzeczywiste wyniki. | 25 |\n\n| Dokument `egzamin` | Zawiera dane ucznia, narzędzia, język, przypadki testowe i statusy. | 25 |\n\n| Zrzuty ekranu | Zrzuty pokazują wymagane stany, cały ekran i środowisko pracy. | 15 |\n\n| Kompletność oddania | Prawidłowy ZIP, pełne projekty, właściwe nazwy i temat wiadomości. | 15 |
 
-**Pracownia testowania i dokumentowania aplikacji · INF.04 · Klasa 4E · PTI**
+---
 
-## Cel
-
-Przetestuj aplikację konsolową i mobilną oraz przygotuj dokumentację zgodną z wymaganiami INF.04. Każdy wynik musi wynikać z własnego uruchomienia programu.
-
-## Zadanie
-
-1. Utwórz folder 03_testy_dokumentacja.
-2. Przygotuj egzamin.docx z imieniem i nazwiskiem, klasą, datą, systemem operacyjnym, środowiskiem i językiem.
-3. Sprawdź komentarz dokumentacyjny klasy Notatka.
-4. Uruchom aplikację konsolową i przetestuj utworzenie dwóch notatek, identyfikatory, licznik oraz obie metody.
-5. Uruchom aplikację mobilną i sprawdź trzy początkowe notatki.
-6. Dodaj Urodziny Ali oraz drugą własną notatkę.
-7. W dokumencie zapisz czynność, oczekiwany i rzeczywisty rezultat oraz status PASS albo FAIL.
-8. Dodaj podpisane zrzuty: konsola1.png, konsola2.png, mobilna1.png i mobilna2.png.
-9. Sprawdź dokument, spakuj kompletne materiały i przygotuj ZIP.
-
-## Struktura oddania
-
-- 03_testy_dokumentacja/egzamin.docx
-- 03_testy_dokumentacja/zrzuty/konsola1.png
-- 03_testy_dokumentacja/zrzuty/konsola2.png
-- 03_testy_dokumentacja/zrzuty/mobilna1.png
-- 03_testy_dokumentacja/zrzuty/mobilna2.png
-- w archiwum głównym także foldery 01_obiektowe i 02_mobilne z projektami.
-
-## Oddanie
-
-Termin: **18.09.2026**. Wyślij ZIP na tomasz.maka.edu@gmail.com.
-
-Temat: **Nazwisko Imie Klasa PTI DD.MM.RR**
-
-Nazwa pliku: **Nazwisko_Imie_Klasa_PTI_11.09.2026.zip**
-
-## Punktacja
-
-| Obszar | Punkty |
-|---|---:|
-| Testy konsolowe | 20 |
-| Testy mobilne | 25 |
-| Dokument egzamin.docx | 25 |
-| Zrzuty ekranu | 15 |
-| Kompletność oddania | 15 |
-
-Skala: 0–49% niedostateczny, 50–59% dopuszczający, 60–69% dostateczny, 70–79% dobry, 80–89% bardzo dobry, 90–100% celujący.
+[ Pobierz wersję DOCX tej karty pracy ](03_pracownia_testowania_i_dokumentowania_github.docx)
