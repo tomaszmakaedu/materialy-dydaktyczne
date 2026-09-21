@@ -1,24 +1,24 @@
-# Pracownia programowania aplikacji mobilnych
+# Zadanie nr 2nia aplikacji mobilnych
 
 **PTI · Klasa 4E**
 
-[Lista przedmiotów](../README.md) · [Strona główna](../../../README.md)
+[Lista przedmiotów](../../README.md) · [Strona główna](../../../README.md)
 
-## Zadanie bazowe
+## Zadanie nr 1
 
-[Mobilna lista notatek — otwórz kartę w GitHub](02_zadanie_podstawowe.md)
+[Mobilna lista notatek — otwórz kartę w GitHub](../Zadanie%20nr%201/README.md)
 
-## Zadanie następcze
+## Zadanie nr 2
 
 [Publikacja aplikacji mobilnej w GitHub — karta znajduje się poniżej](#publikacja-aplikacji-mobilnej-w-github)
 
-Zadanie następcze polega na opublikowaniu rozwiązania zadania bazowego w publicznym repozytorium GitHub.
+Zadanie nr 2 polega na opublikowaniu rozwiązania zadania bazowego w publicznym repozytorium GitHub.
 
 ---
 
 # Publikacja aplikacji mobilnej w GitHub
 
-**Następstwo karty pracy 02** · Pracownia programowania aplikacji mobilnych  
+**Zadanie nr 2** · Pracownia programowania aplikacji mobilnych  
 **INF.04 · Praca własna ucznia · Klasa 4E · PTI**
 
 ## Cel
