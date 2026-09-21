@@ -1,4 +1,4 @@
-# Zadanie nr 2nia aplikacji mobilnych
+# Zadanie nr 2
 
 **PTI · Klasa 4E**
 
