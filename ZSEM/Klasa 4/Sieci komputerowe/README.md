@@ -9,6 +9,3 @@
 [MikroTik RouterOS v7 — RIP i OSPF](MikroTik_RIP_OSPF_RouterOS_v7.md) · [PDF](https://github.com/tomaszmakaedu/materialy-dydaktyczne/raw/refs/heads/main/ZSEM/Klasa%204/Sieci%20komputerowe/Kompendium_RIP_OSPF_MikroTik_RouterOS_v7_loopback.pdf)
 
 Materiały dydaktyczne: **Tomasz Mąka — ZSEM**.
-
-Sprawdziany i klucze odpowiedzi nie należą do publikacji.
-
