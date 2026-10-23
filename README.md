@@ -21,3 +21,5 @@ Projekty do realizacji, karty pracy i materiały pomocnicze dla uczniów i stude
 Skróty placówek zapisujemy dużymi literami. Materiały nie są podzielone według roku szkolnego, dzięki czemu mogą służyć kolejnym rocznikom. Projekty i materiały znajdują się w folderach przedmiotów.
 
 Karty pracy są dostępne w folderach przedmiotów jako pliki DOCX. Kliknij link „pobierz DOCX”, aby pobrać wybraną kartę.
+
+<!-- Test synchronizacji prywatne-publiczne: 2026-10-23 -->
